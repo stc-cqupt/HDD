@@ -1,4 +1,4 @@
-# HDD codes for "Progressive Spectral-Frequency-Spatial Guidance Network for Hy perspectral Image Dehazing" 
+# Progressive Spectral-Frequency-Spatial Guidance Network for Hy perspectral Image Dehazing 
 
 # two_step_training_model
  
