@@ -1,4 +1,4 @@
-# Progressive Spectral-Frequency-Spatial Guidance Network for Hy perspectral Image Dehazing 
+# Progressive Spectral-Frequency-Spatial Guidance Network for Hyperspectral Image Dehazing 
 
 # two_step_training_model
  
