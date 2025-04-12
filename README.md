@@ -2,11 +2,11 @@
 
 # two_step_training_model
  
+HDD (hyperspectral dehazing  dataset)：There are 590 pairs of clear and hazy HSIs， and each HSI has 224 channels with the spatial size 256×256.  We remove low-quality bands and keep 172 channels left for HSI dehazing. 500 pairs are used for training and 90 pairs for testing.
  
 1. Dataset preparation
    
  The dataset can be downloaded from the following URL: https://pan.baidu.com/s/1yr7Ee-mtIy1oFAfgq_HyBA (kz1x). After downloading, put the dataset address in the corresponding section of the code.
-
 
 2. Train the model
    
